@@ -11,7 +11,7 @@ After you have the private key and certificate:
 - Inside that folder create ```settings.json``` file.
 - Paste the following code:
 
-  ```json
+  ```json5
   {  
   "liveServer.settings.https":   
   {
